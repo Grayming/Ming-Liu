@@ -1,28 +1,19 @@
-Ming Liu Homepage
+  #About Me
 
-<h>
-  About Me
-<\h>
-<p>
-  I am a PhD student at Faculty of Information Technology, Monash University.
-<\p>
+
+  I am a PhD student at Faculty of Information Technology, Monash University. My research includes natural language processing, machine learning and biomedical text mining. 
+
   
- <h>
-  News
- <\h>
+  #News
+
  
-  <h>
-   Papers
-  <\h>
+  #Papers
+   * Learn 
     
-  <h>
-   Projects
-  <\h>
-    
-  <h>
-   Teaching 
-  <\h>
-    
-   <h>
-   Awards
-   <\h>
+  #Projects
+
+
+  #Teaching 
+
+  #Awards
+
