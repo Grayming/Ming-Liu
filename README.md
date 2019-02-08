@@ -22,7 +22,7 @@
   
   * Jun Liang, Yumei Chai, __Ming Liu__, Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
     
- # Projects
+# Projects
   * __Cardiorespiratory synchronization analysis for atheletes in Ironman competetion (Dec 2018-Jan 2019)__ Overview: This project was done in Deakin University, where ECG and respiratory time series signals were recorded for a group of atheletes before and after an Ironman competetion. We conducted EMD and Hilbert Huang Transform on both signals, resulting in the synchronisation of the two phases. It shows ECG and repiratory signals are more synchronised after the Ironman competetion. This finding is potential for fatigue dection for players in the future.
 
   * __Weak supervision and active learning for deep neural models (Sep 2017-Present)__
@@ -35,10 +35,10 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
    * __Public Opinion Analysis toward Online Communities in Zhengzhou Uni (Nov 2013-Nov 2014)__ Overview: I was the leader of this project, which was one of 2013 Postgraduate Innovation Projects in Zhengzhou Uni. My work was system design and opinion analysis using some machine learning methods(SVM, NB).
 
 
- # Teaching 
+# Teaching 
    * Teaching assistant for FIT5047 (Artificial Intelligence), FIT5149 (Applied Data Analysis), FIT5196 (Data Wranggling) at Monash University.
 
- # Awards
+# Awards
    * Co-funded Monash Graduate Scholarship (2015-2018)
 
    * China National Postgraduate Scholarship (Sep 2014)
