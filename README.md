@@ -5,8 +5,8 @@
 E-mail: ming.m.liu@monash.edu
   
   # News
-    * Will submit my thesis in Feb. 2019.
-    * My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
+   * Will submit my thesis in Feb. 2019.
+   * My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
  
   # Papers
    * __Ming Liu__, Gholamreza Haffari, Wray Buntine, [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
@@ -38,12 +38,12 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 
 
   # Teaching 
-    * Teaching assistant for FIT5047 (Artificial Intelligence), FIT5149 (Applied Data Analysis), FIT5196 (Data Wranggling) at Monash University.
+   * Teaching assistant for FIT5047 (Artificial Intelligence), FIT5149 (Applied Data Analysis), FIT5196 (Data Wranggling) at Monash University.
 
   # Awards
-    * Co-funded Monash Graduate Scholarship (2015-2018)
+   * Co-funded Monash Graduate Scholarship (2015-2018)
 
-    * China National Postgraduate Scholarship (Sep 2014)
+   * China National Postgraduate Scholarship (Sep 2014)
 
-    * Postgraduate A-level Scholarship of Zhengzhou Uni (2012-2014)
+   * Postgraduate A-level Scholarship of Zhengzhou Uni (2012-2014)
 
