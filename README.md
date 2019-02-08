@@ -21,7 +21,7 @@ E-mail: ming.m.liu@monash.edu
 
   * __Ming Liu__, Hongying Zan, Jun Liang, Key Sentiment Sentence Extraction In News Using SVM and RNN, Journal of Shandong University, 2014, pp: 46-50.
   
-  * Jun Liang, Yumei Chai, \textbf{Ming Liu}, Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
+  * Jun Liang, Yumei Chai, __Ming Liu__, Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
     
   # Projects
   
