@@ -8,19 +8,20 @@
    * My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
 
 # Papers
-   * __Ming Liu__, Gholamreza Haffari, Wray Buntine, [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
+   * Jinmao Xu, Daofu Gong, Fenlin Liu, Qiuyan Jiang, __Ming Liu__. Local Matrix Factorization with Social Network Embedding, In Journal of Combinatorial Optimization 2019.
+   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
    
    * Michelle R Ananda-Rajah, __Ming Liu__ et al. [Deep learning for recognition of invasive fungal disease from chest computed tomography in haematology-oncology patients](https://docs.wixstatic.com/ugd/dd2c9d_311a3a4281a74f2389c63a254965daa6.pdf), In International Immunocompromised Host Society Symposium, Athens 2018.
 
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine, [Learning How to Actively Learn: A Deep Imitation Learning Approach](http://aclweb.org/anthology/P18-1174),  In Annual Conference of the Association for Computational Linguistics 2018.
+  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning How to Actively Learn: A Deep Imitation Learning Approach](http://aclweb.org/anthology/P18-1174),  In Annual Conference of the Association for Computational Linguistics 2018.
 
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine, Michelle Ananda-Rajah, [Leveraging Linguistic Resources for Improving Neural Text Classification](http://aclweb.org/anthology/U17-1004), In Proceedings of the Australian Language Technology Association Workshop 2017, pp: 34-42.
+  * __Ming Liu__, Gholamreza Haffari, Wray Buntine, Michelle Ananda-Rajah. [Leveraging Linguistic Resources for Improving Neural Text Classification](http://aclweb.org/anthology/U17-1004), In Proceedings of the Australian Language Technology Association Workshop 2017, pp: 34-42.
 
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine, [Learning cascaded latent variable models for biomedical text classification](http://aclweb.org/anthology/U16-1014), In Proceedings of the Australian Language Technology Association Workshop 2016, pp: 139-143
+  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning cascaded latent variable models for biomedical text classification](http://aclweb.org/anthology/U16-1014), In Proceedings of the Australian Language Technology Association Workshop 2016, pp: 139-143
 
-  * __Ming Liu__, Hongying Zan, Jun Liang, Key Sentiment Sentence Extraction In News Using SVM and RNN, Journal of Shandong University, 2014, pp: 46-50.
+  * __Ming Liu__, Hongying Zan, Jun Liang. Key Sentiment Sentence Extraction In News Using SVM and RNN, Journal of Shandong University, 2014, pp: 46-50.
   
-  * Jun Liang, Yumei Chai, __Ming Liu__, Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
+  * Jun Liang, Yumei Chai, __Ming Liu__. Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
     
 # Projects
   * __Cardiorespiratory synchronization analysis for atheletes in Ironman competetion (Dec 2018-Jan 2019)__ Overview: This project was done in Deakin University, where ECG and respiratory time series signals were recorded for a group of atheletes before and after an Ironman competetion. We conducted EMD and Hilbert Huang Transform on both signals, resulting in the synchronisation of the two phases. It shows ECG and repiratory signals are more synchronised after the Ironman competetion. This finding is potential for fatigue dection for players in the future.
