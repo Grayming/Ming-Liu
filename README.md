@@ -1,14 +1,12 @@
-  # About Me
-
-
-  I am a PhD student at Faculty of Information Technology, Monash University. My research area includes natural language processing, machine learning and biomedical text mining. 
+# About Me
+ I am a PhD student at Faculty of Information Technology, Monash University. My research area includes natural language processing, machine learning and biomedical text mining. 
 E-mail: ming.m.liu@monash.edu
-  
-  # News
+
+# News
    * Will submit my thesis in Feb. 2019.
    * My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
- 
-  # Papers
+
+# Papers
    * __Ming Liu__, Gholamreza Haffari, Wray Buntine, [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
    
    * Michelle R Ananda-Rajah, __Ming Liu__ et al. [Deep learning for recognition of invasive fungal disease from chest computed tomography in haematology-oncology patients](https://docs.wixstatic.com/ugd/dd2c9d_311a3a4281a74f2389c63a254965daa6.pdf), In International Immunocompromised Host Society Symposium, Athens 2018.
@@ -23,7 +21,7 @@ E-mail: ming.m.liu@monash.edu
   
   * Jun Liang, Yumei Chai, __Ming Liu__, Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
     
-  # Projects
+ # Projects
   
  * __Cardiorespiratory synchronization analysis for atheletes in Ironman competetion (Dec 2018-Jan 2019)__ Overview: This project was done in Deakin University, where ECG and respiratory time series signals were recorded for a group of atheletes before and after an Ironman competetion. We conducted EMD and Hilbert Huang Transform on both signals, resulting in the synchronisation of the two phases. It shows ECG and repiratory signals are more synchronised after the Ironman competetion. This finding is potential for fatigue dection for players in the future.
 
@@ -37,10 +35,10 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
    * __Public Opinion Analysis toward Online Communities in Zhengzhou Uni (Nov 2013-Nov 2014)__ Overview: I was the leader of this project, which was one of 2013 Postgraduate Innovation Projects in Zhengzhou Uni. My work was system design and opinion analysis using some machine learning methods(SVM, NB).
 
 
-  # Teaching 
+ # Teaching 
    * Teaching assistant for FIT5047 (Artificial Intelligence), FIT5149 (Applied Data Analysis), FIT5196 (Data Wranggling) at Monash University.
 
-  # Awards
+ # Awards
    * Co-funded Monash Graduate Scholarship (2015-2018)
 
    * China National Postgraduate Scholarship (Sep 2014)
