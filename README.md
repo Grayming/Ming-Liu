@@ -1,6 +1,7 @@
 # About Me
- I am a PhD student at Faculty of Information Technology, Monash University. My research area includes natural language processing, machine learning and biomedical text mining. 
-E-mail: ming.m.liu@monash.edu
+ I am a PhD student at Faculty of Information Technology, Monash University. My research area includes natural language processing, machine learning and biomedical text mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively. I was a visiting research student in Nanyang Technological University in 2014. I am now working with [Wray Buntine](https://bayesian-models.org/) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
+ 
+ E-mail: ming.m.liu@monash.edu
 
 # News
    * Will submit my thesis in Feb. 2019.
