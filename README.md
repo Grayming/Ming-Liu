@@ -5,7 +5,7 @@
 
 # News
    * Will submit my thesis in Feb. 2019.
-   * My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
+   * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
 
 # Papers
    * Jinmao Xu, Daofu Gong, Fenlin Liu, Qiuyan Jiang, __Ming Liu__. Local Matrix Factorization with Social Network Embedding, In Journal of Combinatorial Optimization 2019.
