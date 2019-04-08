@@ -1,5 +1,5 @@
 # About Me
- I am a PhD student at Faculty of Information Technology, Monash University. My research area includes natural language processing, machine learning and biomedical text mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working with [Wray Buntine](https://bayesian-models.org/) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
+ I am a PhD student at Faculty of Information Technology, Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working with [Wray Buntine](https://bayesian-models.org/) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
  
  E-mail: grayming.liu@monash.edu
 
@@ -41,7 +41,7 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 
 # Teaching 
    * Teaching assistant for FIT5047 (Artificial Intelligence), FIT5149 (Applied Data Analysis), FIT5196 (Data Wranggling) at Monash University.
-   * Co-lecture for FIT5149 (Applied Data Analysis)
+   * Co-lecturer for FIT5149 (Applied Data Analysis)
 # Awards
    * Co-funded Monash Graduate Scholarship (2015-2018)
 
