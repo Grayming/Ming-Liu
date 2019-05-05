@@ -15,7 +15,7 @@
    
    * Michelle R Ananda-Rajah, __Ming Liu__ et al. [Deep learning for recognition of invasive fungal disease from chest computed tomography in haematology-oncology patients](https://docs.wixstatic.com/ugd/dd2c9d_311a3a4281a74f2389c63a254965daa6.pdf), In International Immunocompromised Host Society Symposium, Athens 2018.
 
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning How to Actively Learn: A Deep Imitation Learning Approach](http://aclweb.org/anthology/P18-1174)[Video Link](https://vimeo.com/285804866),  In Annual Conference of the Association for Computational Linguistics 2018.
+  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning How to Actively Learn: A Deep Imitation Learning Approach](http://aclweb.org/anthology/P18-1174),  In Annual Conference of the Association for Computational Linguistics 2018.[Video Link](https://vimeo.com/285804866)
 
   * __Ming Liu__, Gholamreza Haffari, Wray Buntine, Michelle Ananda-Rajah. [Leveraging Linguistic Resources for Improving Neural Text Classification](http://aclweb.org/anthology/U17-1004), In Proceedings of the Australian Language Technology Association Workshop 2017, pp: 34-42.
 
