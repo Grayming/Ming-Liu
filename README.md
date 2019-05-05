@@ -1,9 +1,10 @@
 # About Me
- I am a PhD student at Faculty of Information Technology, Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working with [Wray Buntine](https://bayesian-models.org/) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
+ I am currently a Post-doc in School of IT, Deakin University, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working with[Longxiang Gao](https://au.linkedin.com/in/longxianggao),  [Wray Buntine](https://bayesian-models.org/) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
  
- E-mail: grayming.liu@monash.edu
+ E-mail: m.liu@deakin.edu.au
 
 # News
+   * 29/04/20-19: Start my post-doc in Deakin University.
    * Thesis submitted in Feb. 2019.
    * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
    * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
@@ -25,14 +26,16 @@
   * Jun Liang, Yumei Chai, __Ming Liu__. Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
     
 # Projects
+  * __Automatic long text summarization (May 2019-Present)__ Overview: My post-doc project, aiming at automatic summarization for scitific papers and books.
   
   * __Multi-modal topic modeling (Jan 2019-Present)__ Overview: Topic models are widely used in the social sciences and humanities to analyze text collections. This project aims to build topic models with multiple modalities, expecially from text and images. We use pre-trained word embeddings to inform how a topic focuses on words, and docment level image embeddings to inform how a document focuses on topics. Our methods improves traditional topic models significantly, which allows to discover more informed and focused topics with more representative words, leading to better modelling accuracy and topic quality.
+  
+   * __Clinical text mining for fungal diagnosis support (Oct 2015–Present)__ Overview: This project (http://www.fungalai.com)  built on neural networks in a world first, can make real-time surveillance of fungal diseases possible using: Natural language processing of chest CT reports, Deep learning based image analysis of chest CT scans, and an expert system that integrates lab and drug information.I developed a cascaded latent variable model and a neural model for clinical text classification, the neural model achieved state of art performance, and could support doctors better identify fungal disease.
+   
   * __Cardiorespiratory synchronization analysis for atheletes in Ironman competetion (Dec 2018-Jan 2019)__ Overview: This project was done in Deakin University, where ECG and respiratory time series signals were recorded for a group of atheletes before and after an Ironman competetion. We conducted EMD and Hilbert Huang Transform on both signals, resulting in the synchronisation of the two phases. It shows ECG and repiratory signals are more synchronised after the Ironman competetion. This finding is potential for fatigue dection for players in the future.
 
   * __Weak supervision and active learning for deep neural models (Sep 2017- Feb 2019)__
 Overview: Manual annotation is very expensive in the real world for many NLP tasks such as clinical record classification, named entity recognition, machine translation, active learning is a type of semi-supervised learning where a human expert give labels to those specific data with which the machine learning models can get improved performance. In this project, instead of using traditional heuristic-based methods, we propose several weakly supervised and active learning strategies for deep neural models, the strategies includes using structured information, learning for priors, and learn active learning policies. These strategies are quite effective in the real word environment.
-
-   * __Clinical text mining for fungal diagnosis support (Oct 2015–Present)__ Overview: This project (http://www.fungalai.com)  built on neural networks in a world first, can make real-time surveillance of fungal diseases possible using: Natural language processing of chest CT reports, Deep learning based image analysis of chest CT scans, and an expert system that integrates lab and drug information.I developed a cascaded latent variable model and a neural model for clinical text classification, the neural model achieved state of art performance, and could support doctors better identify fungal disease.
 
    * __Construction of a large-scale Modern Chinese Knowledge Base (Sep 2012-Aug 2014)__ Overview: I was a member of this project which derived from the Natural Science Foundation of China. The main task was to build a large-scale modern Chinese Knowledge Base based on existing resources including Modern Chinese Dictionary(5th Edition), Chinese Grammar Knowledge Base(GKB), Chinese Function Word Usage Knowledge Base, etc.
 
