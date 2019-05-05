@@ -1,5 +1,5 @@
 # About Me
- I am currently a Post-doc in School of IT, Deakin University, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working with[Longxiang Gao](https://au.linkedin.com/in/longxianggao),  [Wray Buntine](https://bayesian-models.org/) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
+ I am currently a Post-doc in School of IT, Deakin University, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working with[Longxiang Gao](https://au.linkedin.com/in/longxianggao),  [Wray Buntine](https://bayesian-models.org/), [Lan Du](https://research.monash.edu/en/persons/lan-du) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
  
  E-mail: m.liu@deakin.edu.au
 
