@@ -18,9 +18,9 @@
 
   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning How to Actively Learn: A Deep Imitation Learning Approach](http://aclweb.org/anthology/P18-1174),  In Annual Conference of the Association for Computational Linguistics 2018.[Video Link](https://vimeo.com/285804866)
 
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine, Michelle Ananda-Rajah. [Leveraging Linguistic Resources for Improving Neural Text Classification](http://aclweb.org/anthology/U17-1004), In Proceedings of the Australian Language Technology Association Workshop 2017, pp: 34-42.
+  * __Ming Liu__, Gholamreza Haffari, Wray Buntine, Michelle Ananda-Rajah. [Leveraging Linguistic Resources for Improving Neural Text Classification](http://aclweb.org/anthology/U17-1004), In Proceedings of the Australian Language Technology Association 2017, pp: 34-42.
 
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning cascaded latent variable models for biomedical text classification](http://aclweb.org/anthology/U16-1014), In Proceedings of the Australian Language Technology Association Workshop 2016, pp: 139-143
+  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning cascaded latent variable models for biomedical text classification](http://aclweb.org/anthology/U16-1014), In Proceedings of the Australian Language Technology Association 2016, pp: 139-143
 
   * __Ming Liu__, Hongying Zan, Jun Liang. Key Sentiment Sentence Extraction In News Using SVM and RNN, Journal of Shandong University, 2014, pp: 46-50.
   
