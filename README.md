@@ -10,6 +10,7 @@
    * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Papers
+   * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. Learn to Active Learn by Dreaming, To be Appeared in Annual Conference of the Association for Computational Linguistics 2019.
    * Jinmao Xu, Daofu Gong, Fenlin Liu, Qiuyan Jiang, __Ming Liu__. Local Matrix Factorization with Social Network Embedding, In Journal of Combinatorial Optimization 2019.
    * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
    
