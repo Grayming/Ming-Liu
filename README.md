@@ -1,16 +1,19 @@
 # About Me
- I am currently a postdoctoral research fellow in School of IT, Deakin University, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working with[Longxiang Gao](https://au.linkedin.com/in/longxianggao),  [Wray Buntine](https://bayesian-models.org/), [Lan Du](https://research.monash.edu/en/persons/lan-du) and [Reza Haffari](http://users.monash.edu.au/~gholamrh/). 
+ I am currently a postdoctoral research fellow in School of IT, Deakin University, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working closely with[Longxiang Gao](https://au.linkedin.com/in/longxianggao), [Reza Haffari](http://users.monash.edu.au/~gholamrh/), [Lan Du](https://research.monash.edu/en/persons/lan-du), and [Wray Buntine](https://bayesian-models.org/). 
  
  E-mail: m.liu@deakin.edu.au
 
 # News
-   * 29/04/20-19: Start my post-doc in Deakin University.
-   * Thesis submitted in Feb. 2019.
+   * 29/04/2019: Start my post-doc in Deakin University.
+   * PhD thesis submitted in Feb. 2019.
    * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
    * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Papers
    * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. Learn to Active Learn by Dreaming, To be Appeared in Annual Conference of the Association for Computational Linguistics 2019.
+   
+   * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence, In The Lancet Digital Health 2019.
+   
    * Jinmao Xu, Daofu Gong, Fenlin Liu, Qiuyan Jiang, __Ming Liu__. Local Matrix Factorization with Social Network Embedding, In Journal of Combinatorial Optimization 2019.
    * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
    
