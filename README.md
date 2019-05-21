@@ -49,7 +49,7 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 # Teaching 
    * Teaching assistant for FIT5047-2016Semester1 (Artificial Intelligence), FIT5149-2018Semester2 (Applied Data Analysis), FIT5196-2019Semester1 (Data Wranggling) at Monash University.
    * Co-lecturer for FIT5149-2019Sememster1 (Applied Data Analysis)
-# Awards
+# Awards and Grants
    * Co-funded Monash Graduate Scholarship (2015-2018)
 
    * China National Postgraduate Scholarship (Sep 2014)
