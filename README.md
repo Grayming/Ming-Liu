@@ -12,9 +12,10 @@
 # Papers
    * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. [Learn to Active Learn by Dreaming](https://www.aclweb.org/anthology/P19-1401), In Annual Conference of the Association for Computational Linguistics 2019.
    
-   * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence, In Journal of Clinical Medicine 2019.
+   * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. [Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780614/), In Journal of Clinical Medicine 2019.
    
    * Jinmao Xu, Daofu Gong, Fenlin Liu, Qiuyan Jiang, __Ming Liu__. Local Matrix Factorization with Social Network Embedding, In Journal of Combinatorial Optimization 2019.
+   
    * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
    
    * Michelle R Ananda-Rajah, __Ming Liu__ et al. [Deep learning for recognition of invasive fungal disease from chest computed tomography in haematology-oncology patients](https://docs.wixstatic.com/ugd/dd2c9d_311a3a4281a74f2389c63a254965daa6.pdf), In International Immunocompromised Host Society Symposium, Athens 2018.
