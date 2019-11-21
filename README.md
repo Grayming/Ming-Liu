@@ -26,9 +26,9 @@
 
   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning cascaded latent variable models for biomedical text classification](http://aclweb.org/anthology/U16-1014), In Proceedings of the Australian Language Technology Association 2016, pp: 139-143
 
-  * __Ming Liu__, Hongying Zan, Jun Liang. Key Sentiment Sentence Extraction In News Using SVM and RNN, Journal of Shandong University, 2014, pp: 46-50.
+  * __Ming Liu__, Hongying Zan, Jun Liang. [基于SVM与RNN的文本情感关键句判定与抽取](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjg7pSYivrlAhWDx4UKHRK1A2cQFjABegQIBRAB&url=http%3A%2F%2Fmall.cnki.net%2Fmagazine%2FArticle%2FSDDX201411010.htm&usg=AOvVaw3rJbBIH7Oi1EOjYEADnSJF), Journal of Shandong University, 2014, pp: 46-50.
   
-  * Jun Liang, Yumei Chai, __Ming Liu__. Sentiment Analysis on Chinese Microblogs based on Deep Learning, Journal of Chinese Information Processing, 2014, pp:156-160
+  * Jun Liang, Yumei Chai, Hongying Zan, __Ming Liu__. [基于深度学习的微博情感分析](http://cips-cl.org/static/anthology/CCL-2014/CCL-14-011.pdf), Journal of Chinese Information Processing, 2014, pp:156-160
     
 # Projects
   * __Automatic long text summarization (May 2019-Present)__ Overview: My post-doc project, aiming at automatic summarization for scitific papers and books.
