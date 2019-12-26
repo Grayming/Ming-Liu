@@ -4,7 +4,7 @@
  E-mail: m.liu@deakin.edu.au
 
 # News
-   * 25/09/2019 - 27/07/2019: [Visited Zhengzhou University and gave several talks on AI] (http://www5.zzu.edu.cn/nlp//info/1018/1811.htm).
+   * 25/09/2019 - 27/07/2019: [Visited Zhengzhou University and gave several talks on AI](http://www5.zzu.edu.cn/nlp//info/1018/1811.htm).
    * PhD thesis submitted in Feb. 2019.
    * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
    * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
