@@ -1,10 +1,10 @@
 # About Me
- I am currently a postdoctoral research fellow in School of IT, Deakin University, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working closely with[Longxiang Gao](https://au.linkedin.com/in/longxianggao), [Reza Haffari](http://users.monash.edu.au/~gholamrh/), [Lan Du](https://research.monash.edu/en/persons/lan-du), and [Wray Buntine](https://bayesian-models.org/). 
+ I am currently a lecturer in Faculty of IT, Monash University, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and biomedical data mining. I received my M.Eng from Zhengzhou University in 2015 and B.Eng from Henan University in 2012, respectively.  I am now working closely with[Longxiang Gao](https://au.linkedin.com/in/longxianggao), [Reza Haffari](http://users.monash.edu.au/~gholamrh/), [Lan Du](https://research.monash.edu/en/persons/lan-du), and [Wray Buntine](https://bayesian-models.org/). 
  
  E-mail: m.liu@deakin.edu.au
 
 # News
-   * 29/04/2019: Start my post-doc in Deakin University.
+   * 25/09/2019 - 27/07/2019: [Visited Zhengzhou University and gave several talks on AI] (http://www5.zzu.edu.cn/nlp//info/1018/1811.htm).
    * PhD thesis submitted in Feb. 2019.
    * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
    * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
