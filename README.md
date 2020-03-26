@@ -57,3 +57,7 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 
    * Postgraduate A-level Scholarship of Zhengzhou Uni (2012-2014)
 
+# Servieces
+   * Journal Reviewer: TKDE
+   * Conference Reviewer: ACL, EMNLP, ICML
+
