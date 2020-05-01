@@ -10,6 +10,7 @@
    * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Papers
+   * __Ming Liu__, Jinming Zhao. Unsupervised text summarization with sentence graph compression. In SIGIR 2020.
    * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. [Learn to Active Learn by Dreaming](https://www.aclweb.org/anthology/P19-1401), In Annual Conference of the Association for Computational Linguistics 2019.
    
    * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. [Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780614/), In Journal of Clinical Medicine 2019.
