@@ -10,14 +10,14 @@
    * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Papers
-   * __Ming Liu__, Jinming Zhao. Unsupervised text summarization with sentence graph compression. In SIGIR 2020.
+   * __Ming Liu__, Jinming Zhao. Unsupervised Text Summarization with Sentence Graph Compression. Accepted by SIGIR 2020.
    * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. [Learn to Active Learn by Dreaming](https://www.aclweb.org/anthology/P19-1401), In Annual Conference of the Association for Computational Linguistics 2019.
    
    * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. [Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780614/), In Journal of Clinical Medicine 2019.
    
    * Jinmao Xu, Daofu Gong, Fenlin Liu, Qiuyan Jiang, __Ming Liu__. Local Matrix Factorization with Social Network Embedding, In Journal of Combinatorial Optimization 2019.
    
-   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to actively learn for neural machine translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
+   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to Actively Learn for Neural Machine Translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
    
    * Michelle R Ananda-Rajah, __Ming Liu__ et al. [Deep learning for recognition of invasive fungal disease from chest computed tomography in haematology-oncology patients](https://docs.wixstatic.com/ugd/dd2c9d_311a3a4281a74f2389c63a254965daa6.pdf), In International Immunocompromised Host Society Symposium, Athens 2018.
 
@@ -34,9 +34,9 @@
 # Projects
   * __Automatic long text summarization (May 2019-Present)__ Overview: My post-doc project, aiming at automatic summarization for scitific papers and books.
   
-  * __Multi-modal topic modeling (Jan 2019-Present)__ Overview: Topic models are widely used in the social sciences and humanities to analyze text collections. This project aims to build topic models with multiple modalities, expecially from text and images. We use pre-trained word embeddings to inform how a topic focuses on words, and docment level image embeddings to inform how a document focuses on topics. Our methods improves traditional topic models significantly, which allows to discover more informed and focused topics with more representative words, leading to better modelling accuracy and topic quality.
+  * __Multi-modal topic modeling (Jan 2019- Jun 2019)__ Overview: Topic models are widely used in the social sciences and humanities to analyze text collections. This project aims to build topic models with multiple modalities, expecially from text and images. We use pre-trained word embeddings to inform how a topic focuses on words, and docment level image embeddings to inform how a document focuses on topics. Our methods improves traditional topic models significantly, which allows to discover more informed and focused topics with more representative words, leading to better modelling accuracy and topic quality.
   
-   * __Clinical text mining for fungal diagnosis support (Oct 2015–Present)__ Overview: This project (http://www.fungalai.com)  built on neural networks in a world first, can make real-time surveillance of fungal diseases possible using: Natural language processing of chest CT reports, Deep learning based image analysis of chest CT scans, and an expert system that integrates lab and drug information.I developed a cascaded latent variable model and a neural model for clinical text classification, the neural model achieved state of art performance, and could support doctors better identify fungal disease.
+   * __Clinical text mining for fungal diagnosis support (Oct 2015– Aug 2019)__ Overview: This project (http://www.fungalai.com)  built on neural networks in a world first, can make real-time surveillance of fungal diseases possible using: Natural language processing of chest CT reports, Deep learning based image analysis of chest CT scans, and an expert system that integrates lab and drug information.I developed a cascaded latent variable model and a neural model for clinical text classification, the neural model achieved state of art performance, and could support doctors better identify fungal disease.
    
   * __Cardiorespiratory synchronization analysis for atheletes in Ironman competetion (Dec 2018-Jan 2019)__ Overview: This project was done in Deakin University, where ECG and respiratory time series signals were recorded for a group of atheletes before and after an Ironman competetion. We conducted EMD and Hilbert Huang Transform on both signals, resulting in the synchronisation of the two phases. It shows ECG and repiratory signals are more synchronised after the Ironman competetion. This finding is potential for fatigue dection for players in the future.
 
@@ -51,11 +51,13 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 # Teaching 
    * Teaching assistant for FIT5047-2016Semester1 (Artificial Intelligence), FIT5149-2018Semester2 (Applied Data Analysis), FIT5196-2019Semester1 (Data Wranggling) at Monash University.
    * Co-lecturer for FIT5149-2019Sememster1 (Applied Data Analysis)
+   * Lecturer for FIT5149-2020-S1 (Applied Data Analysis)
+   * Lecturer for FIT5217-2020-S2 (Natural Langauge Processing)
    
 # Students
-  * PhD: Stella Ho (Feb. 2020 - Now), Continual Learning
-  * Master: Jinming Zhao (Jul. 2019 - Now), Automatic Text Summarization
+  * PhD: Stella Ho (Feb. 2020 - Now in Deakin Uni), Continual Learning
   * Master: Jiaxin Ju (Feb. 2020 - Now), Unsupervised Text Summarization
+  * Master: Jinming Zhao (Jul. 2019 - Jun. 2020 in Monash Uni), Automatic Text Summarization
   
 # Awards and Grants
    * Co-funded Monash Graduate Scholarship (2015-2018)
