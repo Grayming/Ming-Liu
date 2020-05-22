@@ -51,6 +51,12 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 # Teaching 
    * Teaching assistant for FIT5047-2016Semester1 (Artificial Intelligence), FIT5149-2018Semester2 (Applied Data Analysis), FIT5196-2019Semester1 (Data Wranggling) at Monash University.
    * Co-lecturer for FIT5149-2019Sememster1 (Applied Data Analysis)
+   
+# Students
+  * PhD: Stella Ho (Feb. 2020 - Now), Continual Learning
+  * Master: Jinming Zhao (Jul. 2019 - Now), Automatic Text Summarization
+  * Master: Jiaxin Ju (Feb. 2020 - Now), Unsupervised Text Summarization
+  
 # Awards and Grants
    * Co-funded Monash Graduate Scholarship (2015-2018)
 
