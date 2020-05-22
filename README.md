@@ -10,7 +10,7 @@
    * 29/04/2019: Start my post-doc postion in Deakin University.
    * PhD thesis submitted in Feb. 2019.
    * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
-   * 17 Jul. 2018: My paer "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
+   * 17 Jul. 2018: My paper "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Papers
    * __Ming Liu__, Jinming Zhao. Unsupervised Text Summarization with Sentence Graph Compression. Accepted by SIGIR 2020.
