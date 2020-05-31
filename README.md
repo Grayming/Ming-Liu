@@ -5,7 +5,7 @@
 
 # Checkpoints
    * 04/2020: Our short paper "Unsupervised Text Summarization with Sentence Graph Compression" is accepted by SIGIR2020, this work is my first piece of work on automatic text summarization.
-   * 06/01/2020: Visited School of AI, Jilin University.
+   * 06/01/2020: Visited School of AI, Jilin University， talk can be found [here](http://sai.jlu.edu.cn/info/1035/1343.htm).
    * 25/09/2019 - 27/07/2019: [Visited Zhengzhou University and gave several talks on AI](http://www5.zzu.edu.cn/nlp//info/1018/1811.htm).
    * 29/04/2019: Start my post-doc postion in Deakin University.
    * PhD thesis submitted in Feb. 2019.
