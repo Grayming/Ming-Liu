@@ -4,7 +4,8 @@
  E-mail: m.liu@deakin.edu.au
 
 # Checkpoints
-   * 04/2020: Our short paper "Unsupervised Text Summarization with Sentence Graph Compression" is accepted by SIGIR2020, this work is my first piece of work on automatic text summarization.
+   * 09/2020: Our paper "Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph" is accepted by EMNLP2020, my first piece of work on multi label learning.
+   * 04/2020: Our paper "SummPip: Unsupervised Text Summarization with Sentence Graph Compression" is accepted by SIGIR2020, this is my first piece of work on automatic text summarization.
    * 06/01/2020: Visited School of AI, Jilin University， talk can be found [here](http://sai.jlu.edu.cn/info/1035/1343.htm).
    * 25/09/2019 - 27/07/2019: [Visited Zhengzhou University and gave several talks on AI](http://www5.zzu.edu.cn/nlp//info/1018/1811.htm).
    * 29/04/2019: Start my post-doc postion in Deakin University.
@@ -13,7 +14,10 @@
    * 17 Jul. 2018: My paper "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Papers
-   * __Ming Liu__, Jinming Zhao. Unsupervised Text Summarization with Sentence Graph Compression. Accepted by SIGIR 2020.
+   * Jiaxin Ju, __Ming Liu__, Longxiang Gao, Shirui Pan, SciSummPip: An Unsupervised Scientific Paper Summarization Pipeline, in Workshop of Scholarly Document Processing at EMNLP 2020.
+   * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph. In 2020 Conference on Empirical Methods in Natural Language Processing. 
+   * Yuan Jin, __Ming Liu__, Lan Du, Longxiang Gao, Yunfeng Li, Ruohua Xu, Yong Xiang, Variational Auto-encoder Based Bayesian Poisson Tensor Factorization for Sparse and Imbalanced Count Data. In Data Mining and Knowledge Discovery 2020 
+   * __Ming Liu__, Jinming Zhao, Longxiang Gao, Yuan Jin, Lan Du, He Zhao, He Zhang, Gholamreza Haffari. [Unsupervised Text Summarization with Sentence Graph Compression](https://dl.acm.org/doi/abs/10.1145/3397271.3401327). In SIGIR 2020.
    * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. [Learn to Active Learn by Dreaming](https://www.aclweb.org/anthology/P19-1401), In Annual Conference of the Association for Computational Linguistics 2019.
    
    * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. [Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780614/), In Journal of Clinical Medicine 2019.
