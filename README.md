@@ -1,5 +1,5 @@
 # About Me
- I am currently a research fellow in Deakin Uni. and a casual lecturer in Faculty of IT, Monash Uni, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and applied data mining.  I am now working closely with [Longxiang Gao](https://au.linkedin.com/in/longxianggao), [Lan Du](https://research.monash.edu/en/persons/lan-du), and [Wray Buntine](https://bayesian-models.org/). 
+ I am currently a research fellow in Deakin Uni. and a casual lecturer in Faculty of IT, Monash Uni, Australia. I got my PhD in 2019 from Monash University, Australia. My research area includes natural language processing, machine learning and applied data mining.  I am now working closely with [Longxiang Gao](https://au.linkedin.com/in/longxianggao), [Lan Du](https://research.monash.edu/en/persons/lan-du), and [Wray Buntine](https://bayesian-models.org/). [Google scholar here](https://scholar.google.com/citations?user=QzTINAIAAAAJ&hl=en&oi=ao) If you are interested in both English/Chinese NLP and want to apply advanced text mining techniques into real world applicaitons or apply for PhD, please contact me.
  
  E-mail: m.liu@deakin.edu.au
 
