@@ -1,5 +1,6 @@
 # About Me
  I am currently a research fellow in Deakin Uni. Australia and a NLP research scientist for Sandstone Pty Ltd. I got my PhD in 2019 from Monash University, Australia. My intereset includes natural language processing, machine learning and large scale data analysis.  I am now working closely with [Longxiang Gao](https://au.linkedin.com/in/longxianggao), [Lan Du](https://research.monash.edu/en/persons/lan-du), and [Wray Buntine](https://bayesian-models.org/). [Google scholar here](https://scholar.google.com/citations?user=QzTINAIAAAAJ&hl=en&oi=ao) If you are interested in both English/Chinese NLP and want to apply advanced text mining techniques into real world applicaitons or apply for PhD, please contact me.
+ My [Google Scholar here](https://scholar.google.com/citations?user=QzTINAIAAAAJ&hl=en&oi=ao) and [github here](https://github.com/Grayming). 
  
  E-mail: m.liu@deakin.edu.au
 
