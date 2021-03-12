@@ -57,11 +57,13 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 
 
 # Teaching 
-   * Teaching assistant for FIT5047-2016Semester1 (Artificial Intelligence), FIT5149-2018Semester2 (Applied Data Analysis), FIT5196-2019Semester1 (Data Wranggling) at Monash University.
-   * Co-lecturer for FIT5149-2019Sememster1 (Applied Data Analysis)
-   * Lecturer for FIT5149-2020-S1 (Applied Data Analysis)
+   * Lecturer for FIT5196-2021-SSB (Data Wrangling)
    * Lecturer for FIT5217-2020-S2 (Natural Langauge Processing)
+   * Lecturer for FIT5149-2020-S1 (Applied Data Analysis)
+   * Co-lecturer for FIT5149-2019Sememster1 (Applied Data Analysis)
+   * Teaching assistant for FIT5047-2016Semester1 (Artificial Intelligence), FIT5149-2018Semester2 (Applied Data Analysis), FIT5196-2019Semester1 (Data Wranggling) at Monash University.
    
+    
 # Students
   * PhD: Kiria Wang (Nov. 2020 - Now in Deakin Uni), Federated knowledge distillation
   * PhD: Wentao Han (Dec. 2020 - Now in Deakin Uni), Discourse analysis in NLP
@@ -73,11 +75,9 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
 # Awards and Grants
    * Automatic text mining for scitific documents, AUD 12,0000, Sandstone Pty (2019- )
    * Biomedical text classfication for fungal disease detection, AUD 20,000 Aflred Health (2018-2019)
-   * Co-funded Monash Graduate Scholarship (2015-2018)
-   * China National Postgraduate Scholarship (Sep 2014)
 
 
 # Servieces
    * Journal Reviewer: TKDE
-   * Conference Reviewer: ACL, EMNLP, ICML
+   * Conference Reviewer: ACL, EMNLP, NAACL, AAAI, ICML
 
