@@ -19,7 +19,7 @@
      Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine. 
      To Appear in EMNLP2021
    *  [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence](http://)
-       Kelvin Lo, YUAN JIN, Weicong Tan, Ming Liu.
+       Kelvin Lo, Yuan Jin, Weicong Tan, Ming Liu.
        To Appear in Findings EMNLP2021
    *  [Leveraging Information Bottleneck for Scientific Document Summarization](http:// )
        Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan.
