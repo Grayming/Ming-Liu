@@ -15,9 +15,9 @@
    * 17 Jul. 2018: My paper "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Papers
-   * Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine, [Neural Attention-Aware Hierarchical Topic Model], To Appear in EMNLP2021
-   * Kelvin Lo, YUAN JIN, Weicong Tan, Ming Liu, [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence], To Appear in Findings EMNLP2021
-   * Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan, [Leveraging Information Bottleneck for Scientific Document Summarization], To Appear in Findings EMNLP2021
+   * [Neural Attention-Aware Hierarchical Topic Model](http://), Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine. To Appear in EMNLP2021
+   *  [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence](http://), Kelvin Lo, YUAN JIN, Weicong Tan, Ming Liu.To Appear in Findings EMNLP2021
+   *  [Leveraging Information Bottleneck for Scientific Document Summarization] (http:// ), Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan. To Appear in Findings EMNLP2021
    * Jiaxin Ju, __Ming Liu__, Longxiang Gao, Shirui Pan, [SciSummPip: An Unsupervised Scientific Paper Summarization Pipeline](https://arxiv.org/pdf/2010.09190.pdf), in Workshop of Scholarly Document Processing at EMNLP 2020.
    * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf). In 2020 Conference on Empirical Methods in Natural Language Processing. 
    * Yuan Jin, __Ming Liu__, Lan Du, Longxiang Gao, Yunfeng Li, Ruohua Xu, Yong Xiang, [Variational Auto-encoder Based Bayesian Poisson Tensor Factorization for Sparse and Imbalanced Count Data](https://link.springer.com/article/10.1007/s10618-020-00723-7). In Journal of Data Mining and Knowledge Discovery 2020 
