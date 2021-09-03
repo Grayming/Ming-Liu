@@ -16,13 +16,13 @@
 
 # Papers
    * [Neural Attention-Aware Hierarchical Topic Model](http://) 
-     Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine 
+     Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine. 
      To Appear in EMNLP2021
    *  [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence](http://)
-       Kelvin Lo, YUAN JIN, Weicong Tan, Ming Liu
+       Kelvin Lo, YUAN JIN, Weicong Tan, Ming Liu.
        To Appear in Findings EMNLP2021
    *  [Leveraging Information Bottleneck for Scientific Document Summarization](http:// )
-       Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan
+       Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan.
        To Appear in Findings EMNLP2021
    * Jiaxin Ju, __Ming Liu__, Longxiang Gao, Shirui Pan, [SciSummPip: An Unsupervised Scientific Paper Summarization Pipeline](https://arxiv.org/pdf/2010.09190.pdf), in Workshop of Scholarly Document Processing at EMNLP 2020.
    * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf). In 2020 Conference on Empirical Methods in Natural Language Processing. 
