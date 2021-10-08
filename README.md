@@ -25,7 +25,7 @@
        Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan.
        To Appear in Findings EMNLP2021
    * Jiaxin Ju, __Ming Liu__, Longxiang Gao, Shirui Pan, [SciSummPip: An Unsupervised Scientific Paper Summarization Pipeline](https://arxiv.org/pdf/2010.09190.pdf), in Workshop of Scholarly Document Processing at EMNLP 2020.
-   * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf). In 2020 Conference on Empirical Methods in Natural Language Processing. 
+   * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf). In EMNLP 2020. 
    * Yuan Jin, __Ming Liu__, Lan Du, Longxiang Gao, Yunfeng Li, Ruohua Xu, Yong Xiang, [Variational Auto-encoder Based Bayesian Poisson Tensor Factorization for Sparse and Imbalanced Count Data](https://link.springer.com/article/10.1007/s10618-020-00723-7). In Journal of Data Mining and Knowledge Discovery 2020 
    * __Ming Liu__, Jinming Zhao, Longxiang Gao, Yuan Jin, Lan Du, He Zhao, He Zhang, Gholamreza Haffari. [Unsupervised Text Summarization with Sentence Graph Compression](https://dl.acm.org/doi/abs/10.1145/3397271.3401327). In SIGIR 2020.
    * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. [Learn to Active Learn by Dreaming](https://www.aclweb.org/anthology/P19-1401), In Annual Conference of the Association for Computational Linguistics 2019.
