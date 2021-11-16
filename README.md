@@ -15,16 +15,16 @@
    * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
    * 17 Jul. 2018: My paper "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
-# Papers
+# Selected Papers
    * [Neural Attention-Aware Hierarchical Topic Model](http://) 
      Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine. 
-     To Appear in EMNLP2021
+     In EMNLP2021
    *  [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence](http://)
        Kelvin Lo, Yuan Jin, Weicong Tan, Ming Liu.
-       To Appear in Findings EMNLP2021
+       In Findings EMNLP2021
    *  [Leveraging Information Bottleneck for Scientific Document Summarization](http:// )
        Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan.
-       To Appear in Findings EMNLP2021
+       In Findings EMNLP2021
    * Jiaxin Ju, __Ming Liu__, Longxiang Gao, Shirui Pan, [SciSummPip: An Unsupervised Scientific Paper Summarization Pipeline](https://arxiv.org/pdf/2010.09190.pdf), in Workshop of Scholarly Document Processing at EMNLP 2020.
    * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf). In EMNLP 2020. 
    * Yuan Jin, __Ming Liu__, Lan Du, Longxiang Gao, Yunfeng Li, Ruohua Xu, Yong Xiang, [Variational Auto-encoder Based Bayesian Poisson Tensor Factorization for Sparse and Imbalanced Count Data](https://link.springer.com/article/10.1007/s10618-020-00723-7). In Journal of Data Mining and Knowledge Discovery 2020 
@@ -33,7 +33,6 @@
    
    * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. [Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780614/), In Journal of Clinical Medicine 2019.
    
-   * Jinmao Xu, Daofu Gong, Fenlin Liu, Qiuyan Jiang, __Ming Liu__. Local Matrix Factorization with Social Network Embedding, In Journal of Combinatorial Optimization 2019.
    
    * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to Actively Learn for Neural Machine Translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
    
@@ -44,10 +43,7 @@
   * __Ming Liu__, Gholamreza Haffari, Wray Buntine, Michelle Ananda-Rajah. [Leveraging Linguistic Resources for Improving Neural Text Classification](http://aclweb.org/anthology/U17-1004), In Proceedings of the Australian Language Technology Association 2017, pp: 34-42.
 
   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning cascaded latent variable models for biomedical text classification](http://aclweb.org/anthology/U16-1014), In Proceedings of the Australian Language Technology Association 2016, pp: 139-143
-
-  * __Ming Liu__, Hongying Zan, Jun Liang. [基于SVM与RNN的文本情感关键句判定与抽取](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjg7pSYivrlAhWDx4UKHRK1A2cQFjABegQIBRAB&url=http%3A%2F%2Fmall.cnki.net%2Fmagazine%2FArticle%2FSDDX201411010.htm&usg=AOvVaw3rJbBIH7Oi1EOjYEADnSJF), Journal of Shandong University, 2014, pp: 46-50.
   
-  * Jun Liang, Yumei Chai, Hongying Zan, __Ming Liu__. [基于深度学习的微博情感分析](http://cips-cl.org/static/anthology/CCL-2014/CCL-14-011.pdf), Journal of Chinese Information Processing, 2014, pp:156-160
     
 # Projects
   * __Automatic long text summarization (May 2019-Present)__ Overview: My post-doc project, aiming at automatic summarization for scitific papers and books.
