@@ -2,7 +2,7 @@
  I am currently a NLP research engineer in [NCHA](https://www.monash.edu/medicine/national-centre-for-healthy-ageing/data-platform). I got my PhD in 2019 from Monash University and worked as a research fellow in Deakin University until middle 2021. My intereset includes natural language processing, machine learning and large scale data analysis. Especiaaly, the following areas always get my attention: Active Learning, Text Summarization, Weakly Supervised Learning, Continual Learning, Knowledge Disttilation, Discourse Parsing, Federated Learning, Adversarial Learning. I am now working closely with biomedical researchers in [NCHA](https://www.monash.edu/medicine/national-centre-for-healthy-ageing/data-platform), machine learning scientists in Sandstone AI and NLP scholars in [Monash FIT](https://www.monash.edu/it/dsai/machine-learning/people). 
  My [Google Scholar here](https://scholar.google.com/citations?user=QzTINAIAAAAJ&hl=en&oi=ao) and [Github here](https://github.com/Grayming). 
  
- E-mail: m.liu@deakin.edu.au
+ E-mail: grayming.liu@monash.edu
 
 # Checkpoints
    * 09/2020: Our paper "Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph" is accepted by EMNLP2020, my first piece of work on multi label learning.
