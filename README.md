@@ -5,7 +5,7 @@
  E-mail: grayming.liu@monash.edu
 
 # Checkpoints
-   * 08/2021: Three papers are accepted by EMNLP2021, which covers from topic modeling to text summarization.
+   * 08/2021: Three papers are accepted by EMNLP2021, which covers topic modeling and text summarization.
    * 09/2020: Our paper "Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph" is accepted by EMNLP2020, my first piece of work on multi label learning.
    * 04/2020: Our paper "SummPip: Unsupervised Text Summarization with Sentence Graph Compression" is accepted by SIGIR2020, this is my first piece of work on automatic text summarization.
    * 06/01/2020: Visited School of AI, Jilin University， talk can be found [here](http://sai.jlu.edu.cn/info/1035/1343.htm).
