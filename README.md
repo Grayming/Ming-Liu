@@ -16,16 +16,15 @@
    * 17 Jul. 2018: My paper "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
 # Selected Papers
-   * [Neural Attention-Aware Hierarchical Topic Model](http://) 
-     Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine. 
+   * [Neural Attention-Aware Hierarchical Topic Model](https://aclanthology.org/2021.emnlp-main.80.pdf) 
+     Yuan Jin, He Zhao, __Ming Liu__, Lan Du, Wray Buntine. 
      In EMNLP2021
-   *  [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence](http://)
-       Kelvin Lo, Yuan Jin, Weicong Tan, Ming Liu.
+   *  [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence](https://aclanthology.org/2021.findings-emnlp.283.pdf)
+       Kelvin Lo, Yuan Jin, Weicong Tan, __Ming Liu__.
        In Findings EMNLP2021
-   *  [Leveraging Information Bottleneck for Scientific Document Summarization](http:// )
-       Jiaxin Ju, Ming Liu, Huan Yee Koh, Shirui Pan.
+   *  [Leveraging Information Bottleneck for Scientific Document Summarization](https://aclanthology.org/2021.findings-emnlp.345.pdf)
+       Jiaxin Ju, __Ming Liu__, Huan Yee Koh, Shirui Pan.
        In Findings EMNLP2021
-   * Jiaxin Ju, __Ming Liu__, Longxiang Gao, Shirui Pan, [SciSummPip: An Unsupervised Scientific Paper Summarization Pipeline](https://arxiv.org/pdf/2010.09190.pdf), in Workshop of Scholarly Document Processing at EMNLP 2020.
    * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf). In EMNLP 2020. 
    * Yuan Jin, __Ming Liu__, Lan Du, Longxiang Gao, Yunfeng Li, Ruohua Xu, Yong Xiang, [Variational Auto-encoder Based Bayesian Poisson Tensor Factorization for Sparse and Imbalanced Count Data](https://link.springer.com/article/10.1007/s10618-020-00723-7). In Journal of Data Mining and Knowledge Discovery 2020 
    * __Ming Liu__, Jinming Zhao, Longxiang Gao, Yuan Jin, Lan Du, He Zhao, He Zhang, Gholamreza Haffari. [Unsupervised Text Summarization with Sentence Graph Compression](https://dl.acm.org/doi/abs/10.1145/3397271.3401327). In SIGIR 2020.
@@ -33,20 +32,13 @@
    
    * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. [Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780614/), In Journal of Clinical Medicine 2019.
    
-   
    * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to Actively Learn for Neural Machine Translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
-   
-   * Michelle R Ananda-Rajah, __Ming Liu__ et al. [Deep learning for recognition of invasive fungal disease from chest computed tomography in haematology-oncology patients](https://docs.wixstatic.com/ugd/dd2c9d_311a3a4281a74f2389c63a254965daa6.pdf), In International Immunocompromised Host Society Symposium, Athens 2018.
 
   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning How to Actively Learn: A Deep Imitation Learning Approach](http://aclweb.org/anthology/P18-1174),  In Annual Conference of the Association for Computational Linguistics 2018.[Video Link](https://vimeo.com/285804866)
 
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine, Michelle Ananda-Rajah. [Leveraging Linguistic Resources for Improving Neural Text Classification](http://aclweb.org/anthology/U17-1004), In Proceedings of the Australian Language Technology Association 2017, pp: 34-42.
-
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning cascaded latent variable models for biomedical text classification](http://aclweb.org/anthology/U16-1014), In Proceedings of the Australian Language Technology Association 2016, pp: 139-143
-  
     
 # Projects
-  * __Automatic long text summarization (May 2019-Present)__ Overview: My post-doc project, aiming at automatic summarization for scitific papers and books.
+  * __Automatic long text summarization (May 2019-Nov 2021)__ Overview: My post-doc project, aiming at automatic knowledge discovery from scitific papers and books.
   
   * __Multi-modal topic modeling (Jan 2019- Jun 2019)__ Overview: Topic models are widely used in the social sciences and humanities to analyze text collections. This project aims to build topic models with multiple modalities, expecially from text and images. We use pre-trained word embeddings to inform how a topic focuses on words, and docment level image embeddings to inform how a document focuses on topics. Our methods improves traditional topic models significantly, which allows to discover more informed and focused topics with more representative words, leading to better modelling accuracy and topic quality.
   
