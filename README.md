@@ -68,8 +68,8 @@ Overview: Manual annotation is very expensive in the real world for many NLP tas
   * PhD: Kiria Wang (Nov. 2020 - Now in Deakin Uni), Federated knowledge distillation
   * PhD: Wentao Han (Dec. 2020 - Now in Deakin Uni), Discourse analysis in NLP
   * PhD: Xinzhe Li (Nov. 2020 - Now in Deakin Uni), Adversarial NLP
-  * PhD: Stella Ho (Feb. 2020 - Now in Deakin Uni), Continual Learning
-  * Master: Jiaxin Ju (Feb. 2020 - Now), Unsupervised Text Summarization
+  * PhD: Stella Ho (Feb. 2020 - Feb. 2024 in Deakin Uni), Continual Learning
+  * Master: Jiaxin Ju (Feb. 2020 - Feb. 2021), Unsupervised Text Summarization
   * Master: Jinming Zhao (Jul. 2019 - Jun. 2020 in Monash Uni), Automatic Text Summarization
   
 # Awards and Grants
