@@ -1,10 +1,11 @@
 # About Me
- I am currently a Machine Learning lecturer in Deakin University. I got my PhD in 2019 from Monash University and worked as a research fellow in Deakin University until middle 2021. My intereset includes natural language processing, machine learning and large scale data analysis. Especially, the following areas always get my attention: Small Language Modelling, Active Learning, Text Generation, Weakly Supervised Learning, Continual Learning, Knowledge Disttilation, Federated Learning, Adversarial Learning. I am now working closely with biomedical researchers in [NCHA](https://www.monash.edu/medicine/national-centre-for-healthy-ageing/data-platform), machine learning scientists in Sandstone AI and NLP scholars in [Monash FIT](https://www.monash.edu/it/dsai/machine-learning/people). 
- My [Google Scholar here](https://scholar.google.com/citations?user=QzTINAIAAAAJ&hl=en&oi=ao) and [Github here](https://github.com/Grayming). 
+ I am currently a Machine Learning lecturer in Deakin University. I got my PhD in 2019 from Monash University and worked as a research fellow in Deakin University until middle 2021. My intereset includes natural language processing, machine learning and large scale data analysis. Especially, the following areas always get my attention: Small/Large Language Modelling, Active Learning, Text Generation, Weakly Supervised Learning, Continual Learning, Knowledge Disttilation, Federated Learning, Adversarial Learning. 
+ My [Google Scholar here](https://scholar.google.com/citations?hl=en&user=uyBJ6KIAAAAJ) and [Github here](https://github.com/Grayming). 
  
  E-mail: m.liu@deakin.edu.au; grayming.liu@monash.edu
 
 # Checkpoints
+   * 2024 May: Our paper "SumSurvey" is accepted ACL2024 Findings.
    * 2023 Sep: ARC Linkage Project funded (LP220200746).
    * 2022: Several internal projects funded. 
    * 08/2021: Three papers are accepted by EMNLP2021, which covers topic modeling and text summarization.
