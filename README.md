@@ -18,27 +18,6 @@
    * 1 Nov. 2018: My paper "Learn to actively learn for Neural Machine Translation" is presented in CoNLL2018.
    * 17 Jul. 2018: My paper "Learning How to Actively Learn: A deep imitation learning approach" is presentend in ACL2018.
 
-# Selected Papers
-   * [Neural Attention-Aware Hierarchical Topic Model](https://aclanthology.org/2021.emnlp-main.80.pdf) 
-     Yuan Jin, He Zhao, __Ming Liu__, Lan Du, Wray Buntine. 
-     In EMNLP2021
-   *  [Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence](https://aclanthology.org/2021.findings-emnlp.283.pdf)
-       Kelvin Lo, Yuan Jin, Weicong Tan, __Ming Liu__.
-       In Findings EMNLP2021
-   *  [Leveraging Information Bottleneck for Scientific Document Summarization](https://aclanthology.org/2021.findings-emnlp.345.pdf)
-       Jiaxin Ju, __Ming Liu__, Huan Yee Koh, Shirui Pan.
-       In Findings EMNLP2021
-   * Jueqing Lu, Lan Du, __Ming Liu__, Joanna Dipnall, [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graph](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf). In EMNLP 2020. 
-   * Yuan Jin, __Ming Liu__, Lan Du, Longxiang Gao, Yunfeng Li, Ruohua Xu, Yong Xiang, [Variational Auto-encoder Based Bayesian Poisson Tensor Factorization for Sparse and Imbalanced Count Data](https://link.springer.com/article/10.1007/s10618-020-00723-7). In Journal of Data Mining and Knowledge Discovery 2020 
-   * __Ming Liu__, Jinming Zhao, Longxiang Gao, Yuan Jin, Lan Du, He Zhao, He Zhang, Gholamreza Haffari. [Unsupervised Text Summarization with Sentence Graph Compression](https://dl.acm.org/doi/abs/10.1145/3397271.3401327). In SIGIR 2020.
-   * Trang Vu, __Ming Liu__, Gholamreza Haffari, Dinh Phung. [Learn to Active Learn by Dreaming](https://www.aclweb.org/anthology/P19-1401), In Annual Conference of the Association for Computational Linguistics 2019.
-   
-   * Michelle Ananda-Rajah, Diva Baggio, Trisha Peel, Anton Peleg, Gholamreza Haffari, __Ming Liu__, Christoph Bergmeir. [Closing the gap in surveillance and audit of invasive mold diseases for antifungal stewardship using artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780614/), In Journal of Clinical Medicine 2019.
-   
-   * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning to Actively Learn for Neural Machine Translation](http://aclweb.org/anthology/K18-1033), In Conference of Natural Language Learning 2018.
-
-  * __Ming Liu__, Gholamreza Haffari, Wray Buntine. [Learning How to Actively Learn: A Deep Imitation Learning Approach](http://aclweb.org/anthology/P18-1174),  In Annual Conference of the Association for Computational Linguistics 2018.[Video Link](https://vimeo.com/285804866)
-
     
 # Projects
   * __Automatic long text summarization (May 2019-Nov 2021)__ Overview: My post-doc project, aiming at automatic knowledge discovery from scitific papers and books.
